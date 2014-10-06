@@ -1,2 +1,2 @@
-facebook-comment-spammer
+fpl-scraper
 ========================
